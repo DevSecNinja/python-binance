@@ -5,26 +5,8 @@ Welcome to python-binance v0.7.3-async
 Note
 ----
 
-1. This library is a fork of the `sammchardy/python-binance/tree/feature/asyncio` repository and is used by the Home Assistant integration. It will be decommissioned when the `feature/asyncio` branch is merged and available in the `python-binance` package.
+1. This library is a fork of the sammchardy/python-binance/tree/feature/asyncio repository and is used by the Home Assistant integration. It will be decommissioned when the feature/asyncio branch is merged and available in the python-binance package.
 2. This library is not under active development by sammchardy. however, the community has been actively contributing lots of PRs. If you find missing features please submit a PR. please keep PRs small and non-breaking.
-
-.. image:: https://img.shields.io/pypi/v/python-binance.svg
-    :target: https://pypi.python.org/pypi/python-binance
-
-.. image:: https://img.shields.io/pypi/l/python-binance.svg
-    :target: https://pypi.python.org/pypi/python-binance
-
-.. image:: https://img.shields.io/travis/sammchardy/python-binance.svg
-    :target: https://travis-ci.org/sammchardy/python-binance
-
-.. image:: https://img.shields.io/coveralls/sammchardy/python-binance.svg
-    :target: https://coveralls.io/github/sammchardy/python-binance
-
-.. image:: https://img.shields.io/pypi/wheel/python-binance.svg
-    :target: https://pypi.python.org/pypi/python-binance
-
-.. image:: https://img.shields.io/pypi/pyversions/python-binance.svg
-    :target: https://pypi.python.org/pypi/python-binance
 
 This is an unofficial Python wrapper for the `Binance exchange REST API v1/3 <https://github.com/binance-exchange/binance-official-api-docs>`_. I am in no way affiliated with Binance, use at your own risk.
 
