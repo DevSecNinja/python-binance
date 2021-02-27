@@ -17,11 +17,11 @@ with codecs.open(
         raise RuntimeError('Unable to determine version.')
 
 setup(
-    name='python-binance',
+    name='python-binance-async',
     version=version,
     packages=['binance'],
-    description='Binance REST API python implementation',
-    url='https://github.com/sammchardy/python-binance',
+    description='Async Binance REST API Python implementation',
+    url='https://github.com/DevSecNinja/python-binance',
     author='Sam McHardy',
     license='MIT',
     author_email='',

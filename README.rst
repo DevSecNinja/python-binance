@@ -2,6 +2,12 @@
 Welcome to python-binance v0.7.3-async
 ======================================
 
+Note
+----
+
+1. This library is a fork of the `sammchardy/python-binance/tree/feature/asyncio` repository and is used by the Home Assistant integration. It will be decommissioned when the `feature/asyncio` branch is merged and available in the `python-binance` package.
+2. This library is not under active development by sammchardy. however, the community has been actively contributing lots of PRs. If you find missing features please submit a PR. please keep PRs small and non-breaking.
+
 .. image:: https://img.shields.io/pypi/v/python-binance.svg
     :target: https://pypi.python.org/pypi/python-binance
 
