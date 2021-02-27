@@ -17,7 +17,7 @@ with codecs.open(
         raise RuntimeError('Unable to determine version.')
 
 setup(
-    name='python-binance-async',
+    name='python-binance-async-ha',
     version=version,
     packages=['binance'],
     description='Async Binance REST API Python implementation',
